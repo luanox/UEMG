@@ -5,6 +5,17 @@ HTML não é uma linguagem de programação e sim uma linguagem de marcação.
 As marcações são feitas através de `<tags>`.
 Em resumo o HTML é uma linguagem para publicação de conteúdo na Web (texto, imagem, video, áudio, etc...). 
 
+### Quem criou o HTML?
+
+### Comentarios no HTML
+Os comentarios e uma forma para forma para documentar seu codigo.
+```html
+<!--
+    Aqui virá comentarios
+-->
+```
+![](https://files.fm/thumb.php?i=3b4amnmzp)
+
 ### O que são Tags HTML
 
 São os textos que ficam entre `< >` ou `< />` que geralmente são em pares.
@@ -20,4 +31,3 @@ São os textos que ficam entre `< >` ou `< />` que geralmente são em pares.
 <br/>
 ```
 
-### Quem criou o HTML?
